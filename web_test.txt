@@ -1,0 +1,7 @@
+An element is an HTML component consting of tags and the content in the tag.
+Attributes assign a values tags.
+selectors are css components of given div.
+sematic elements are tags that tell the browser how to display the web page.
+web accsibility is the ability of a web page to be viewed.
+a web server is displays web contents to viewers.
+
